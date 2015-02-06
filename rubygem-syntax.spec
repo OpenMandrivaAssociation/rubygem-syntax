@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    1.0.0
-Release:    %mkrel 1
+Release:    2
 Summary:    Syntax is Ruby library for performing simple syntax highlighting
 Group:      Development/Ruby
 License:    BSD
